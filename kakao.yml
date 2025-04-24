@@ -1,0 +1,104 @@
+Arch: win64
+CompatData: ''
+Creation_Date: '2024-08-27 02:12:51.908483'
+Custom_Path: false
+DLL_Overrides: {}
+DXVK: dxvk-2.6.1
+Environment: Application
+Environment_Variables: {}
+External_Programs:
+    dc08391f-5dff-4f96-8e05-d02acecdd763:
+        arguments: ''
+        auto_discovered: true
+        executable: KakaoTalk.exe
+        folder: /home/user/.var/app/com.usebottles.bottles/data/bottles/bottles/kakao/drive_c/Program
+            Files (x86)/Kakao/KakaoTalk
+        icon: com.usebottles.bottles-program
+        id: dc08391f-5dff-4f96-8e05-d02acecdd763
+        name: KakaoTalk
+        path: C:\Program Files (x86)\Kakao\KakaoTalk\KakaoTalk.exe
+Installed_Dependencies:
+- arial32
+- times32
+- courie32
+- mono
+- gecko
+- d3dx11
+- gdiplus
+- cjkfonts
+- andale32
+- arialb32
+- comic32
+- georgi32
+- impact32
+- tahoma32
+- trebuc32
+- verdan32
+- webdin32
+- allfonts
+Language: sys
+LatencyFleX: latencyflex-v0.1.1
+NVAPI: dxvk-nvapi-v0.7.1
+Name: kakao
+Parameters:
+    custom_dpi: 240
+    decorated: true
+    discrete_gpu: true
+    dxvk: true
+    dxvk_nvapi: true
+    fixme_logs: false
+    fsr: false
+    fsr_quality_mode: none
+    fsr_sharpening_strength: 2
+    fullscreen_capture: false
+    gamemode: false
+    gamescope: false
+    gamescope_borderless: false
+    gamescope_fps: 0
+    gamescope_fps_no_focus: 0
+    gamescope_fullscreen: true
+    gamescope_game_height: 0
+    gamescope_game_width: 0
+    gamescope_scaling: false
+    gamescope_window_height: 0
+    gamescope_window_width: 0
+    latencyflex: true
+    mangohud: false
+    mangohud_display_on_game_start: true
+    mouse_warp: true
+    obsvkc: false
+    pulseaudio_latency: false
+    renderer: gl
+    sandbox: false
+    sync: wine
+    take_focus: false
+    use_be_runtime: true
+    use_eac_runtime: true
+    use_runtime: false
+    use_steam_runtime: false
+    versioning_automatic: false
+    versioning_compression: false
+    versioning_exclusion_patterns: false
+    virtual_desktop: false
+    virtual_desktop_res: 1280x720
+    vkbasalt: false
+    vkd3d: true
+    vmtouch: false
+    vmtouch_cache_cwd: false
+Path: kakao
+Runner: soda-9.0-1
+RunnerPath: ''
+Sandbox:
+    share_net: false
+    share_sound: false
+State: 0
+Uninstallers: {}
+Update_Date: '2025-04-24 15:16:39.766529'
+VKD3D: vkd3d-proton-2.14.1
+Versioning: false
+Versioning_Exclusion_Patterns: []
+Windows: win10
+WorkingDir: ''
+data: {}
+run_in_terminal: false
+session_arguments: ''
